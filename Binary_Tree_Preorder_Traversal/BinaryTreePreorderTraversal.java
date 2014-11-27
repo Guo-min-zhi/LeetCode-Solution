@@ -15,6 +15,6 @@ public class Solution {
             root.addAll(root.left);
             root.addAll(root.right);
         }
-        return list;
+        return list; 
     }
 }
